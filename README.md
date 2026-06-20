@@ -184,6 +184,6 @@ The Simple Exponential Smoothing (SES) model was successfully applied to forecas
 
 ---
 
-## Author
+## Prepared by
 
 **Sugumar Ranganathan, M.B.A.,**
